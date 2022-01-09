@@ -30,9 +30,8 @@ console.log(" ");
 console.log("Task 3:");
 var o = "frog"
 console.log ("The type of frog is 'string' ")
+zconsole.log(" ");
 
-
-console.log(" ");
 //task 4
 console.log("Task 4:");
 var orderHasShiped = true;
